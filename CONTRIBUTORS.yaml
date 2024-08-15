@@ -80,6 +80,21 @@ abdulrahmanazab:
     name: Abdulrahman Azab
     joined: 2019-01
 
+ace-bio:
+    name: Augustine C Emmanuel
+    joined: 2024-08
+    email: emmaustin20@gmail.com
+    bio: |
+        "Postgraduate researcher in molecular biology and bioinformatics.
+        Also DataCamp certified data scientist"
+    affiliations: 
+        - Africa Centre of Excellence for Mycotoxin and Food Safety
+        - Federal University of Technology Minna, Nigeria
+    location:
+        country: Ng
+        lat: 9.082
+        lon: 8.675
+
 ahmedhamidawan:
     name: Ahmed Hamid Awan
     email: aawan7@jhu.edu
